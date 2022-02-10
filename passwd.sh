@@ -10,3 +10,11 @@ then
 else
       echo "INvalid user"
 fi
+
+# i don't hownit work
+
+
+djndndd
+
+djnd
+jfmnmnlxds
